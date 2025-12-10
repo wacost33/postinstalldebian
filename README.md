@@ -20,7 +20,7 @@ wget https://raw.githubusercontent.com/tonpseudo/debian-postinstall/main/setup-d
 chmod +x setup-debian.sh
 
 # Lancer en root
-sudo ./setup-debian.sh
+./setup-debian.sh
 C’est tout.
 Ce que le script fait exactement
 
