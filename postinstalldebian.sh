@@ -92,4 +92,4 @@ echo "Webmin → https://$(hostname -I | awk '{print $1}'):10000"
 echo "Pense à autoriser le port 10000 dans ton firewall si besoin"
 echo "=================================================="
 
-exit 0
+reboot
