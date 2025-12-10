@@ -1,4 +1,4 @@
-Debian Post-Install Script 
+# Debian Post-Install Script 
 Objectif du projet
 Ce script unique fait TOUT ce qu’on fait manuellement après une installation fraîche de Debian:
 
@@ -16,10 +16,10 @@ Utilisation (3 commandes)
 Bash# 1. Récupérer le script
 wget https://raw.githubusercontent.com/tonpseudo/debian-postinstall/main/setup-debian.sh
 
-# 2. Le rendre exécutable
+# Le rendre exécutable
 chmod +x setup-debian.sh
 
-# 3. Lancer en root
+# Lancer en root
 sudo ./setup-debian.sh
 C’est tout.
 Ce que le script fait exactement
