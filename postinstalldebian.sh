@@ -1,4 +1,4 @@
 #!/bin/bash
 
 clear
-echp test
+echo test
