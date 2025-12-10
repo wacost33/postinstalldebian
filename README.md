@@ -1,32 +1,3 @@
-
-.___________.  ______   .__   __. ____    ____ .______      
-|           | /  __  \  |  \ |  | \   \  /   / |   _  \     
-`---|  |----`|  |  |  | |   \|  |  \   \/   /  |  |_)  |    
-    |  |     |  |  |  | |  . `  |   \_    _/   |      /     
-    |  |     |  `--'  | |  |\   |     |  |  __ |  |\  \----.
-    |__|      \______/  |__| \__|     |__| (__)| _| `._____|
-                                                            
-.         
-         _nnnn_                      
-        dGGGGMMb     ,"""""""""""""".
-       @p~qp~~qMb    | Linux Rules! |
-       M|@||@) M|   _;..............'
-       @,----.JM| -'
-      JS^\__/  qKL
-     dZP        qKRb
-    dZP          qKKb
-   fZP            SMMb
-   HZM            MMMM
-   FqM            MMMM
- __| ".        |\dS"qML
- |    `.       | `' \Zq
-_)      \.___.,|     .'
-\____   )MMMMMM|   .'
-     `-'       `--'
-
-
-
-
 Debian Post-Install Script 
 Objectif du projet
 Ce script unique fait TOUT ce qu’on fait manuellement après une installation fraîche de Debian:
